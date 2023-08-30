@@ -58,6 +58,8 @@ RMSE score: 0.03958866748353199
 R2 score: 0.8740921714800556 
 RMSE score: 0.04417766528950032 
 
+![image](https://github.com/Elaya1984/RidgeLassoRegression-HouseSalePricePrediction/assets/56072675/b6586b76-ee22-44a3-806e-92a2c7643a69)
+
 Conclusion We have a good train score 85% and good test score as well 83%. That means what the model learnt in the train set it performed well in the test set.
 	Lasso Regression Model 
 
@@ -69,6 +71,7 @@ RMSE score: 0.05337147880821713
 R2 score: 0.800881671942512 
 RMSE score: 0.05555613339120312 
 
+![image](https://github.com/Elaya1984/RidgeLassoRegression-HouseSalePricePrediction/assets/56072675/c7bee118-6000-477f-a99a-204dcd5f356c)
 
 •	The R2 test score on the Ridge Regression Model is better than Lasso Regression Model. 
 •	RMSE on the Ridge Regression Model is better than Lasso Regression Model. 
